@@ -1,0 +1,93 @@
+gsap.from(".first h1,h5",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    y:30,
+})
+gsap.from(".img1",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:410,
+    scrollTrigger:".img1"
+}
+)
+gsap.from(".img2",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    y:410,
+    scrollTrigger:".img2"
+}
+)
+gsap.from(".img3",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:-410,
+    scrollTrigger:".img3"
+}
+)
+
+gsap.from(".left",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:-500,
+    scrollTrigger:".left"
+}
+)
+gsap.from(".right",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:500,
+    scrollTrigger:".right"
+}
+)
+gsap.from(".left1",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:-500,
+    scrollTrigger:".left1"
+})
+gsap.from(".right1",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:500,
+    scrollTrigger:".right1"
+})
+gsap.from(".price",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    top:600,
+    scrollTrigger:".price"
+})
+gsap.from(".nine .Books",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    top:600,
+    scrollTrigger:".Books"
+})
+gsap.from(".left2",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:-500,
+    scrollTrigger:".left2"
+})
+gsap.from(".right2",{
+    duration:1.5,
+    delay:0.2,
+    opacity:0,
+    x:500,
+    scrollTrigger:".right2"
+})
+
+
+
+
